@@ -9,7 +9,7 @@ class BankAccount
   end
 
   def deposit(num)
-    result = @balance + num
+    total = @balance + num
   end
 
 
