@@ -1,5 +1,5 @@
 class Transfer
   # your code here
-  def initialize (account1, account2, num)
+  def initialize (sender, receiver, num)
   end
 end
